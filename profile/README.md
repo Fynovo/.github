@@ -42,7 +42,7 @@ While we have previously worked on **Quillon**, we are now exploring new ideas a
 
 ## 🧑‍💻 Meet the Founder
 
-**Alex Joshva** ([@alexjoshva](https://github.com/alexjoshva))  
+**Alexchandar Joshva** ([@alexjoshva](https://github.com/alexjoshva))  
 A dedicated developer and data science enthusiast based in Mumbai, India. Alex is passionate about creating solutions that leverage technology to solve real-world problems.
 
 ## 🤝 Get Involved
