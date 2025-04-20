@@ -1,13 +1,9 @@
 # Welcome to **Fynovo** 🚀  
 **Delivering smart, scalable AI, cloud, and software solutions to turn innovative ideas into impactful products.**
 
----
-
 ## 👋 About Us
 
 At **Fynovo**, we specialize in creating intelligent and scalable solutions that harness the power of artificial intelligence, cloud computing, and software development. Our mission is to transform innovative ideas into impactful products that make a difference.
-
----
 
 ## 🌟 Our Vision
 
@@ -16,8 +12,6 @@ At **Fynovo**, we specialize in creating intelligent and scalable solutions that
 ## 🎯 Our Mission
 
 > To develop smart, scalable AI, cloud, and software solutions that turn innovative ideas into impactful products.
-
----
 
 ## 🚀 Current Focus: [**Quillon**](https://github.com/alexjoshva/Quillon)
 
@@ -32,20 +26,16 @@ Key features include:
 
 > Quillon helps you stay productive and organized—anytime, anywhere.
 
----
-
 ## 🛠️ Projects in the Pipeline
 
 While **Quillon** is our primary focus, we are continuously exploring new ideas and projects that align with our mission to deliver smart and scalable solutions.
 
----
 
 ## 🧑‍💻 Meet the Founder
 
 **Alex Joshva** ([@alexjoshva](https://github.com/alexjoshva))  
 A dedicated developer and data science enthusiast based in Mumbai, India. Alex is passionate about creating solutions that leverage technology to solve real-world problems.
 
----
 
 ## 🤝 Get Involved
 
@@ -58,7 +48,6 @@ Interested in contributing or partnering with Fynovo?
 
 We welcome developers, designers, and users who are passionate about technology and innovation.
 
----
 
 ## 📌 Join the Fynovo Movement
 
@@ -69,7 +58,6 @@ We're on a journey to create tools that not only meet the needs of today but als
 Let's shape the future of digital workspaces and creativity—together.
 
 ---
-
 <p align="center">
   Built with ❤️ by <a href="https://github.com/alexjoshva">Alex Joshva</a> and the <a href="https://github.com/Fynovo">Fynovo</a> team.
 </p>
