@@ -1,8 +1,5 @@
-<div align="center">
+  # Welcome to **Fynovo** 🚀
   
-# Welcome to **Fynovo** 🚀
-</div>
-
 **Delivering smart, scalable AI, cloud, and software solutions to turn innovative ideas into impactful products.**
 
 ## 👋 About Us
