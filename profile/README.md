@@ -13,29 +13,36 @@ At **Fynovo**, we specialize in creating intelligent and scalable solutions that
 
 > To develop smart, scalable AI, cloud, and software solutions that turn innovative ideas into impactful products.
 
-## 🚀 Current Focus: [**Quillon**](https://github.com/alexjoshva/Quillon)
+## 🚀 Previous Work: [**Quillon**](https://github.com/alexjoshva/Quillon)
 
-**Quillon** is our flagship product — a note-taking app designed for simplicity and efficiency. Built with Vite, React, and TypeScript, Quillon offers a fast and intuitive way to organize your thoughts, tasks, and ideas.
+**Quillon** is a note-taking app designed for simplicity and efficiency. Built with Vite, React, and TypeScript, Quillon offers a fast and intuitive way to organize your thoughts, tasks, and ideas.
 
-Key features include:
+### 🔗 Explore Quillon:
+
+- 🔗 **[Live App →](https://quillon.netlify.app/)** — Experience Quillon in action.  
+- 📄 **[View on GitHub →](https://github.com/alexjoshva/Quillon)** — Browse the source code.  
+- 🐳 **[Docker Image →](https://ghcr.io/alexjoshva/quillon:latest)** — Pull the container:
+  ```bash
+  docker pull ghcr.io/alexjoshva/quillon:latest
+  ```
+
+### ✨ Key Features:
 
 - 📝 **Private Notes**: Keep your notes secure and accessible only to you.  
 - ⭐ **Favorites**: Mark important notes for quick access.  
-- 🏋️ **Tags**: Organize your notes with customizable tags.  
+- 🂵 **Tags**: Organize your notes with customizable tags.  
 - 🔍 **Powerful Search**: Quickly find notes with our efficient search functionality.
 
 > Quillon helps you stay productive and organized—anytime, anywhere.
 
 ## 🛠️ Projects in the Pipeline
 
-While **Quillon** is our primary focus, we are continuously exploring new ideas and projects that align with our mission to deliver smart and scalable solutions.
-
+While we have previously worked on **Quillon**, we are now exploring new ideas and projects that align with our mission to deliver smart and scalable solutions.
 
 ## 🧑‍💻 Meet the Founder
 
 **Alex Joshva** ([@alexjoshva](https://github.com/alexjoshva))  
 A dedicated developer and data science enthusiast based in Mumbai, India. Alex is passionate about creating solutions that leverage technology to solve real-world problems.
-
 
 ## 🤝 Get Involved
 
@@ -47,7 +54,6 @@ Interested in contributing or partnering with Fynovo?
 - ✨ Collaborate with us to shape the future of productivity tools
 
 We welcome developers, designers, and users who are passionate about technology and innovation.
-
 
 ## 📌 Join the Fynovo Movement
 
@@ -63,3 +69,4 @@ Let's shape the future of digital workspaces and creativity—together.
 </p>
 
 ---
+
