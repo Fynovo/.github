@@ -27,6 +27,10 @@ At **Fynovo**, we specialize in creating intelligent and scalable solutions that
   ```bash
   docker pull ghcr.io/alexjoshva/quillon:latest
   ```
+<p align="center">
+  <strong>Scan the QR Code to open the application</strong><br><br>
+  <img src="https://github.com/user-attachments/assets/9cfb08a8-f2cb-498c-bde3-0a8fc6cf27df" alt="QR Code" width="100"/>
+</p>
 
 ### ✨ Key Features:
 
