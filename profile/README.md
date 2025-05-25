@@ -1,32 +1,33 @@
-  # Welcome to **Fynovo** 🚀
-  
-**Delivering smart, scalable AI, cloud, and software solutions to turn innovative ideas into impactful products.**
+# Welcome to **Klyo.to** 🚀
+
+**Intelligence, Engineered.**
 
 ## 👋 About Us
 
-At **Fynovo**, we specialize in creating intelligent and scalable solutions that harness the power of artificial intelligence, cloud computing, and software development. Our mission is to transform innovative ideas into impactful products that make a difference.
+At **Klyo**, we specialize in building cutting-edge AI and SaaS solutions. Our focus lies in engineering intelligence through the power of artificial intelligence, machine learning, deep learning, and neural networks. We're on a mission to create scalable, impactful products that solve real-world problems through technology.
 
 ## 🌟 Our Vision
 
-> To be at the forefront of technological innovation, delivering solutions that empower businesses and individuals alike.
+> To lead the next wave of innovation by building AI-driven platforms and software that power the future.
 
 ## 🎯 Our Mission
 
-> To develop smart, scalable AI, cloud, and software solutions that turn innovative ideas into impactful products.
+> To develop intelligent, scalable SaaS and AI solutions that turn bold ideas into powerful tools for individuals and businesses.
 
 ## 🚀 Previous Work: [**Quillon**](https://github.com/alexjoshva/Quillon)
 
-**Quillon** is a note-taking app designed for simplicity and efficiency. Built with Vite, React, and TypeScript, Quillon offers a fast and intuitive way to organize your thoughts, tasks, and ideas.
+**Quillon** is a simple note-taking app built for simplicity and speed. Developed using Vite, React, and TypeScript, it enables users to organize notes, tasks, and ideas effortlessly.
 
 ### 🔗 Explore Quillon:
 
-- 🔗 **[Live App →](https://quillon.netlify.app/)** — Experience Quillon in action.  
-- 📄 **[View on GitHub →](https://github.com/alexjoshva/Quillon)** — Browse the source code.  
-- 🐳 **[Docker Image →](https://ghcr.io/alexjoshva/quillon:latest)** — Pull the container:
-  
+* 🔗 **[Live App →](https://quillon.netlify.app/)** — Try Quillon online.
+* 📄 **[View on GitHub →](https://github.com/alexjoshva/Quillon)** — Dive into the source code.
+* 🐳 **[Docker Image →](https://ghcr.io/alexjoshva/quillon:latest)** — Pull it via Docker:
+
   ```bash
   docker pull ghcr.io/alexjoshva/quillon:latest
   ```
+
 <p align="center">
   <strong>Scan the QR Code to open the application</strong><br><br>
   <img src="https://github.com/user-attachments/assets/9cfb08a8-f2cb-498c-bde3-0a8fc6cf27df" alt="QR Code" width="100"/>
@@ -34,45 +35,42 @@ At **Fynovo**, we specialize in creating intelligent and scalable solutions that
 
 ### ✨ Key Features:
 
-- 📝 **Private Notes**: Keep your notes secure and accessible only to you.  
-- ⭐ **Favorites**: Mark important notes for quick access.  
-- 🂵 **Tags**: Organize your notes with customizable tags.  
-- 🔍 **Powerful Search**: Quickly find notes with our efficient search functionality.
+* 📝 **Private Notes**: Your thoughts remain private and secure.
+* ⭐ **Favorites**: Quickly access your most important notes.
+* 🃅 **Tags**: Categorize and manage your notes efficiently.
+* 🔍 **Search**: Find anything in a flash.
 
-> Quillon helps you stay productive and organized—anytime, anywhere.
+> Quillon boosts productivity by keeping your ideas organized and within reach.
 
 ## 🛠️ Projects in the Pipeline
 
-While we have previously worked on **Quillon**, we are now exploring new ideas and projects that align with our mission to deliver smart and scalable solutions.
+As we move forward, Klyo is focused exclusively on **AI and SaaS**. Our upcoming projects will revolve around AI-powered productivity tools, smart applications, and platforms that simplify complex processes through automation and machine intelligence.
 
 ## 🧑‍💻 Meet the Founder
 
-**Alexchandar Joshva** ([@alexjoshva](https://github.com/alexjoshva))  
-A dedicated developer and data science enthusiast based in Mumbai, India. Alex is passionate about creating solutions that leverage technology to solve real-world problems.
+**Alexchandar Joshva** ([@alexjoshva](https://github.com/alexjoshva))
+A passionate builder and AI enthusiast from Mumbai, India, with a mission to create technology that shapes the future.
 
 ## 🤝 Get Involved
 
-Interested in contributing or partnering with Fynovo?
+Interested in collaborating or contributing?
 
-- 📬 Email: [Fynovo@protonmail.com](mailto:Fynovo@protonmail.com)  
-- ⭐ Star and watch our [GitHub projects](https://github.com/Fynovo)  
-- 🧠 Open issues, suggest features, or submit pull requests  
-- ✨ Collaborate with us to shape the future of productivity tools
+* 📩 Email: [klyo@protonmail.com](mailto:klyo@protonmail.com)
+* ⭐ Star our work on [GitHub](https://github.com/KlyoAI)
+* 🧠 Share feedback, open issues, and join development
+* ✨ Partner with us to build the future of intelligent systems
 
-We welcome developers, designers, and users who are passionate about technology and innovation.
+We welcome engineers, creators, and dreamers who want to shape what comes next.
 
-## 📌 Join the Fynovo Movement
+## 📌 Join the Klyo Journey
 
-We're on a journey to create tools that not only meet the needs of today but also anticipate the challenges of tomorrow. **Quillon** is just the beginning.
+We're building tools for the future — intelligent, scalable, and human-centric. **Quillon** was just our first step. Klyo will continue to push the boundaries of what’s possible with AI and SaaS.
 
-> “We don’t just build tools — we build futures.”
-
-Let's shape the future of digital workspaces and creativity—together.
+> **Intelligence, Engineered.**
 
 ---
+
 <p align="center">
-  Built with ❤️ by <a href="https://github.com/alexjoshva">Alex Joshva</a> and the <a href="https://github.com/Fynovo">Fynovo</a> team.
+  Built with ❤️ by <a href="https://github.com/alexjoshva">Alex Joshva</a> and the <a href="https://github.com/KlyoAI">Klyo</a> team.
 </p>
-
----
 
