@@ -56,7 +56,7 @@ A passionate builder and AI enthusiast from Mumbai, India, with a mission to cre
 Interested in collaborating or contributing?
 
 * 📩 Email: [klyo@protonmail.com](mailto:klyo@protonmail.com)
-* ⭐ Star our work on [GitHub](https://github.com/KlyoAI)
+* ⭐ Star our work on [GitHub](https://github.com/Klyo2)
 * 🧠 Share feedback, open issues, and join development
 * ✨ Partner with us to build the future of intelligent systems
 
@@ -71,6 +71,6 @@ We're building tools for the future — intelligent, scalable, and human-centric
 ---
 
 <p align="center">
-  Built with ❤️ by <a href="https://github.com/alexjoshva">Alex Joshva</a> and the <a href="https://github.com/KlyoAI">Klyo</a> team.
+  Built with ❤️ by <a href="https://github.com/alexjoshva">Alex Joshva</a> and the <a href="https://github.com/Klyo2">Klyo</a> team.
 </p>
 
