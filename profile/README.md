@@ -1,10 +1,10 @@
-# Welcome to **Klyo.to** 🚀
+# Welcome to **HMS Bounty** 🚀
 
 **Intelligence, Engineered.**
 
 ## 👋 About Us
 
-At **Klyo**, we specialize in building cutting-edge AI and SaaS solutions. Our focus lies in engineering intelligence through the power of artificial intelligence, machine learning, deep learning, and neural networks. We're on a mission to create scalable, impactful products that solve real-world problems through technology.
+At **HMS Bounty**, we specialize in building cutting-edge AI and SaaS solutions. Our focus lies in engineering intelligence through the power of artificial intelligence, machine learning, deep learning, and neural networks. We're on a mission to create scalable, impactful products that solve real-world problems through technology.
 
 ## 🌟 Our Vision
 
@@ -44,33 +44,33 @@ At **Klyo**, we specialize in building cutting-edge AI and SaaS solutions. Our f
 
 ## 🛠️ Projects in the Pipeline
 
-As we move forward, Klyo is focused exclusively on **AI and SaaS**. Our upcoming projects will revolve around AI-powered productivity tools, smart applications, and platforms that simplify complex processes through automation and machine intelligence.
+As we move forward, HMS Bounty is focused exclusively on **AI and SaaS**. Our upcoming projects will revolve around AI-powered productivity tools, smart applications, and platforms that simplify complex processes through automation and machine intelligence.
 
 ## 🧑‍💻 Meet the Founder
 
 **Alexchandar Joshva** ([@alexjoshva](https://github.com/alexjoshva))
-A passionate builder and AI enthusiast from Mumbai, India, with a mission to create technology that shapes the future.
+A passionate builder and Data Science enthusiast from Mumbai, India, with a mission to create technology that shapes the future.
 
 ## 🤝 Get Involved
 
 Interested in collaborating or contributing?
 
 * 📩 Email: [klyo@protonmail.com](mailto:klyo@protonmail.com)
-* ⭐ Star our work on [GitHub](https://github.com/Klyo2)
+* ⭐ Star our work on [GitHub](https://github.com/hmsbounty)
 * 🧠 Share feedback, open issues, and join development
 * ✨ Partner with us to build the future of intelligent systems
 
 We welcome engineers, creators, and dreamers who want to shape what comes next.
 
-## 📌 Join the Klyo Journey
+## 📌 Join the HMS Bounty Journey
 
-We're building tools for the future — intelligent, scalable, and human-centric. **Quillon** was just our first step. Klyo will continue to push the boundaries of what’s possible with AI and SaaS.
+We're building tools for the future — intelligent, scalable, and human-centric. **Quillon** was just our first step. HMS Bounty will continue to push the boundaries of what’s possible with AI and SaaS.
 
 > **Intelligence, Engineered.**
 
 ---
 
 <p align="center">
-  Built with ❤️ by <a href="https://github.com/alexjoshva">Alex Joshva</a> and the <a href="https://github.com/Klyo2">Klyo</a> team.
+  Built with ❤️ by <a href="https://github.com/alexjoshva">Alex Joshva</a> and the <a href="https://github.com/hmsbounty">HMS Bounty</a> team.
 </p>
 
