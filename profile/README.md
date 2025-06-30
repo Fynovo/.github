@@ -25,7 +25,7 @@ At **HMS Bounty**, we specialize in building cutting-edge AI and SaaS solutions.
 * 🐳 **[Docker Image →](https://ghcr.io/alexcj831/quillon:latest)** — Pull it via Docker:
 
   ```bash
-  docker pull ghcr.io/alexjoshva/quillon:latest
+  docker pull ghcr.io/alexcj831/quillon:latest
   ```
 
 <p align="center">
@@ -48,7 +48,7 @@ As we move forward, HMS Bounty is focused exclusively on **AI and SaaS**. Our up
 
 ## 🧑‍💻 Meet the Founder
 
-**Alexchandar Joshva** ([@alexjoshva](https://github.com/alexcj831))
+**Alexchandar Joshva** ([@alexcj831](https://github.com/alexcj831))
 A passionate builder and Data Science enthusiast from Mumbai, India, with a mission to create technology that shapes the future.
 
 ## 🤝 Get Involved
