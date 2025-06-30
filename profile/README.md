@@ -17,6 +17,7 @@ At **HMS Bounty**, we specialize in building cutting-edge AI and SaaS solutions.
 ## 🚀 Previous Work: [**Quillon**](https://github.com/alexcj831/Quillon)
 
 **Quillon** is a simple note-taking app built for simplicity and speed. Developed using Vite, React, and TypeScript, it enables users to organize notes, tasks, and ideas effortlessly.
+> While not AI-powered, Quillon represents our foundation in building productive SaaS tools. We are now steering toward fully AI-driven systems for productivity, automation, and intelligence.
 
 ### 🔗 Explore Quillon:
 
