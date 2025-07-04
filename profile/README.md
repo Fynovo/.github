@@ -56,7 +56,7 @@ A passionate builder and Data Science enthusiast from Mumbai, India, with a miss
 
 Interested in collaborating or contributing?
 
-* 📩 Email: [klyo@protonmail.com](mailto:klyo@protonmail.com)
+* 📩 Email: [alexchandarjoshva@gmail.com](alexchandarjoshva@gmail.com)
 * ⭐ Star our work on [GitHub](https://github.com/hmsbounty)
 * 🧠 Share feedback, open issues, and join development
 * ✨ Partner with us to build the future of intelligent systems
