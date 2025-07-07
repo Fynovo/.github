@@ -14,7 +14,7 @@ At **HMS Bounty**, we specialize in building cutting-edge AI and SaaS solutions.
 
 > To develop intelligent, scalable SaaS and AI solutions that turn bold ideas into powerful tools for individuals and businesses.
 
-## 🚀 Previous Work: [**Quillon**](https://github.com/alexcj831/Quillon)
+## 🚀 Previous Work: [**Quillon**](https://github.com/alexcjosh/Quillon)
 
 **Quillon** is a simple note-taking app built for simplicity and speed. Developed using Vite, React, and TypeScript, it enables users to organize notes, tasks, and ideas effortlessly.
 > While not AI-powered, Quillon represents our foundation in building productive SaaS tools. We are now steering toward fully AI-driven systems for productivity, automation, and intelligence.
@@ -22,11 +22,11 @@ At **HMS Bounty**, we specialize in building cutting-edge AI and SaaS solutions.
 ### 🔗 Explore Quillon:
 
 * 🔗 **[Live App →](https://quillon.netlify.app/)** — Try Quillon online.
-* 📄 **[View on GitHub →](https://github.com/alexcj831/Quillon)** — Dive into the source code.
-* 🐳 **[Docker Image →](https://ghcr.io/alexcj831/quillon:latest)** — Pull it via Docker:
+* 📄 **[View on GitHub →](https://github.com/alexcjosh/Quillon)** — Dive into the source code.
+* 🐳 **[Docker Image →](https://ghcr.io/alexcjosh/quillon:latest)** — Pull it via Docker:
 
   ```bash
-  docker pull ghcr.io/alexcj831/quillon:latest
+  docker pull ghcr.io/alexcjosh/quillon:latest
   ```
 
 <p align="center">
@@ -49,7 +49,7 @@ As we move forward, HMS Bounty is focused exclusively on **AI and SaaS**. Our up
 
 ## 🧑‍💻 Meet the Founder
 
-**Alexchandar Joshva** ([@alexcj831](https://github.com/alexcj831))
+**Alexchandar Joshva** ([@alexcjosh](https://github.com/alexcjosh))
 A passionate builder and Data Science enthusiast from Mumbai, India, with a mission to create technology that shapes the future.
 
 ## 🤝 Get Involved
@@ -72,6 +72,6 @@ We're building tools for the future — intelligent, scalable, and human-centric
 ---
 
 <p align="center">
-  Built with ❤️ by <a href="https://github.com/alexcj831">Alex Joshva</a> and the <a href="https://github.com/hmsbounty">HMS Bounty</a> team.
+  Built with ❤️ by <a href="https://github.com/alexcjosh">Alex C. Josh</a> and the <a href="https://github.com/hmsbounty">HMS Bounty</a> team.
 </p>
 
