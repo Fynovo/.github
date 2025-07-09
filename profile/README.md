@@ -49,7 +49,7 @@ As we move forward, HMS Bounty is focused exclusively on **AI and SaaS**. Our up
 
 ## 🧑‍💻 Meet the Founder
 
-**Alexchandar Joshva** ([@alexalexbits](https://github.com/alexalexbits))
+**Alex** ([@alexalexbits](https://github.com/alexalexbits))
 A passionate builder and Data Science enthusiast from Mumbai, India, with a mission to create technology that shapes the future.
 
 ## 🤝 Get Involved
@@ -72,6 +72,6 @@ We're building tools for the future — intelligent, scalable, and human-centric
 ---
 
 <p align="center">
-  Built with ❤️ by <a href="https://github.com/alexalexbits">Alex C. Josh</a> and the <a href="https://github.com/hmsbounty">HMS Bounty</a> team.
+  Built with ❤️ by <a href="https://github.com/alexalexbits">Alex</a> and the <a href="https://github.com/hmsbounty">HMS Bounty</a> team.
 </p>
 
